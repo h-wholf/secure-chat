@@ -1,0 +1,42 @@
+body
+{
+  background-color: #2d353d;
+  color: white;
+  text-transform: capitalize;
+}
+.titulo
+{
+  display: flex;
+  justify-content: Center;
+  font-family: Comic Sans MS;
+  
+}
+.pregunta
+{
+  display: flex;
+  justify-content: Center;
+  
+}
+.usuarios
+{
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  background-color: #378b37;
+}
+
+.contenido{
+  display: flex;
+  font-family: Consolas,Comic Sans MS;
+  background-color: #34342edb;
+  
+  color: rgb(30,212,248);
+}
+
+.code{
+  
+  color: #b5f31a;
+  background-color: #303324;
+  border-radius: 3px;
+  margin: 3px;
+}
